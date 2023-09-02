@@ -3,11 +3,17 @@
 Welcome to my practice website! This project was created to explore and practice fundamental web development concepts, including HTML, CSS, and responsive design using media queries.
 
 ## Table of Contents
+- [Website Deployment](#website-deployment)
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+
+## Website Deployment
+
+You can access the deployed website on GitHub Pages by following this link:
+[My Simple Website](https://sairajkulkarni.github.io/Responsive_Website/)
 
 ## Description
 
